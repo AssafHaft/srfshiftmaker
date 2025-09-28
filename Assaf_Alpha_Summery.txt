@@ -1,0 +1,70 @@
+Shift Scheduling System – Feature Summary
+
+1. Employee Management
+
+Add, edit, and remove employees.
+
+Assign each employee:
+
+Shift preference: Day, Night, or No preference, amount of wanted shifts.
+
+Color code for quick visual identification in the schedule.
+
+
+2. Shift Definitions
+
+Adjustable start and end times for both Day and Night shifts.
+
+Flexible slot counts:
+
+Define how many people are needed for Day shift.
+
+Define how many people are needed for Night shift.
+
+
+3. Scheduling Rules
+
+No morning shift after a night shift to ensure rest.
+
+Fair distribution of shifts:
+
+Accounts for preferences and variability settings.
+
+Avoids double-booking employees on the same day.
+
+Randomization with a repeatable “seed” option for reproducible schedules.
+
+
+4. Month & Year Controls
+
+Choose any month and year for scheduling.
+
+Automatically calculates correct number of days.
+
+Clear display of month name and shift time ranges.
+
+
+5. Schedule Generation
+
+Generates monthly schedule in a clean, readable table.
+
+Each shift shows employee names in their assigned colors.
+
+Legend section for quick color reference.
+
+
+6. Future Planned Features
+
+Max consecutive workdays (e.g., no more than 6).
+
+Automatic rest days after long work streaks.
+
+Per-person shift count summary.
+
+Excel/CSV export.
+
+Import from existing Excel templates.
+
+Ability to lock specific assignments and re-generate around them.
+
+Interactive, Excel-style editing.
